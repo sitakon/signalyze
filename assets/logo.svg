@@ -1,0 +1,25 @@
+<svg width="680" height="680" viewBox="0 0 680 680" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Signalyze logo</title>
+<desc>A wavy signal line passing under a magnifying lens, with the segment inside the lens rendered bold and an amber dot marking an anomaly point.</desc>
+
+<defs>
+  <clipPath id="lensClip"><circle cx="420" cy="355" r="66"/></clipPath>
+</defs>
+
+<path d="M60,380 C100,340 140,340 180,380 C220,420 260,420 300,380 C340,340 380,340 420,380 C460,420 500,420 540,380 C570,350 590,360 620,380"
+  fill="none" stroke="#B4B2A9" stroke-width="5" stroke-linecap="round" opacity="0.55"/>
+
+<g clip-path="url(#lensClip)">
+  <path d="M360,365 C385,300 395,300 420,355 C445,410 455,410 480,365"
+    fill="none" stroke="#0F6E56" stroke-width="9" stroke-linecap="round"/>
+</g>
+
+<circle cx="400" cy="312" r="20" fill="#D85A30" opacity="0.18"/>
+<circle cx="400" cy="312" r="11" fill="#D85A30"/>
+
+<circle cx="420" cy="355" r="70" fill="none" stroke="#0F6E56" stroke-width="6"/>
+<path d="M373,318 A66,66 0 0 1 405,294" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity="0.45"/>
+
+<circle cx="469" cy="404" r="9" fill="#0F6E56"/>
+<line x1="469" y1="404" x2="526" y2="461" stroke="#085041" stroke-width="15" stroke-linecap="round"/>
+</svg>

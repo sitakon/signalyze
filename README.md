@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="signalyze logo" width="300"/>
+</p>
+
+
 # signalyze
 
 A Python library for signal analysis, feature extraction, machine learning, and explainability — built on NumPy, SciPy, scikit-learn, SHAP, and LIME.
