@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="signalyze logo" width="600"/>
+  <img src="assets/logo.svg" alt="signalyze logo" width="400"/>
 </p>
 
 
